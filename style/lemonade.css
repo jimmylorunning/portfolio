@@ -5,13 +5,18 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-.frame {
-  margin: 0 auto;
-  max-width: 90%; }
-  .frame:after {
+.frame, .full-frame {
+  margin: 0 auto; }
+  .frame:after, .full-frame:after {
     content: "";
     display: table;
     clear: both; }
+
+.frame {
+  max-width: 90%; }
+
+.full-frame {
+  max-width: 100%; }
 
 [class*='bit-'] {
   float: left;

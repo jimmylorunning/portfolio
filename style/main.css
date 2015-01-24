@@ -52,6 +52,9 @@ textarea {
 body {
   font: 16px/26px Helvetica, Helvetica Neue, Arial; }
 
+.full-frame {
+  width: 100%; }
+
 .wrapper {
   width: 90%;
   margin: 0 5%; }
@@ -66,7 +69,7 @@ body {
 
 .footer-container,
 .main aside {
-  border-top: 20px solid #e44d26; }
+  border-top: 4px solid #e44d26; }
 
 .header-container,
 .footer-container,
@@ -118,8 +121,16 @@ nav ul {
   padding-top: 20px; }
 
 /* ==========================================================================
-   Author's custom styles
+   Jimmy's custom styles
    ========================================================================== */
+.parallax-fg-one {
+  background-image: url(http://jimmy.local/test/portfolio/img/snow.png);
+  height: 600px; }
+
+.parallax-window {
+  min-height: 600px;
+  background: transparent; }
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */

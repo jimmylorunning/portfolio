@@ -4,5 +4,7 @@ Just a single page portfolio website, using:
   * HTML5 Boilerplate
   * Lemonade grid
   * Scss
+  * {jQuery}[http://jquery.com/]
+  * {Parallax.js}[https://github.com/pixelcog/parallax.js/]
 
 {jimmylocoding}[http://jimmylocoding.com]
