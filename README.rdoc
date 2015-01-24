@@ -1,0 +1,8 @@
+== My Portfolio Website
+
+Just a single page portfolio website, using:
+  * HTML5 Boilerplate
+  * Lemonade grid
+  * Scss
+
+{jimmylocoding}[http://jimmylocoding.com]
